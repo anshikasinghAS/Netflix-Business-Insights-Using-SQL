@@ -1,1 +1,3 @@
-# Netflix-Business-Insights-Using-SQL
+# Netflix Movies and TV shows Data Analysis Using SQL
+
+![Netflix Logo]()
