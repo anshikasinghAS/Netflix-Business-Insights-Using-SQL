@@ -21,7 +21,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ---
 
-## **3. Questions & Key Insights**
+## Questions & Key Insights
 
 | #  | Question                                                              | Key Insight                                             |
 | -- | --------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -43,16 +43,16 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ---
 
-## **4. Tools & Technologies**
+## 4. Tools & Technologies
 
 * **Database:** MySQL
 * **Dataset:** Kaggle Netflix dataset
-* **SQL Concepts Used:**
+* **Some SQL Concepts Used:**
 
   * Aggregation: `COUNT`, `GROUP BY`, `SUM`
   * Conditional logic: `CASE WHEN`
   * String operations: `LIKE`, `SUBSTRING_INDEX`
-  * Date operations: `YEAR()`, `DATEDIFF`, `CURDATE()`
+  * Date operations: `YEAR()`,`CURDATE()`
   * Filtering: `WHERE`, `IS NULL`
   * Sorting & limiting: `ORDER BY`, `LIMIT`
   * Subqueries
@@ -69,7 +69,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - **Top Actors in Indian Movies:** Anupam Kher (**40 movies**) and Shah Rukh Khan (**34 movies**) lead the list.  
 - **Content Sentiment:** Based on description keywords, the majority of titles were labeled **Positive**.
 
-## **5. How to Run the Project**
+## How to Run the Project
 
 1. Download dataset from Kaggle and save as `netflix_titles.csv`.
 2. Import the CSV into MySQL using Workbench or CLI.
