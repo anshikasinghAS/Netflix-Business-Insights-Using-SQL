@@ -15,7 +15,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ## Dataset
 
 * **Source:** [Netflix Movies and TV Shows Dataset – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-* **Rows:** \~8,800
+* **Rows:** 8,807
 * **Columns:** 12 (including `title`, `director`, `cast`, `country`, `release_year`, `rating`, `duration`, `listed_in`, `description`)
 * **Description:** Contains details of movies and TV shows available on Netflix, such as genre, release year, cast, director, duration, and description.
 
